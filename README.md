@@ -17,6 +17,7 @@ Paste this URL into PenguinMod's:
 ```text
 https://raw.githubusercontent.com/sonunishanthchoudhury-alt/PenguinMod-Arduino-Nano-Extension/refs/heads/main/Arduino_Nano_Ver_3.0.js
 ```
+Click on 'Run extension without sandbox'
 ---
 
 # Downloads
