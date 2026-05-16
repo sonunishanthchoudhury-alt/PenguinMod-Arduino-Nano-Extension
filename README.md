@@ -15,7 +15,7 @@ Paste this URL into PenguinMod's:
 `Extensions → Load Extension From URL`
 
 ```text
-https://raw.githubusercontent.com/sonunishanthchoudhury-alt/PenguinMod-Arduino-Nano-USB/refs/heads/main/Arduino_Nano_USB_Ver_3.0.js
+https://raw.githubusercontent.com/sonunishanthchoudhury-alt/PenguinMod-Arduino-Nano-Extension/refs/heads/main/Arduino_Nano_Ver_3.0.js
 ```
 ---
 
