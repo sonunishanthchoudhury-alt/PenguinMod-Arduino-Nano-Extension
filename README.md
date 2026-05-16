@@ -24,7 +24,7 @@ https://raw.githubusercontent.com/sonunishanthchoudhury-alt/PenguinMod-Arduino-N
 Latest releases:
 
 ```text
-https://github.com/sonunishanthchoudhury-alt/PenguinMod-Arduino-Nano-USB/releases/tag/v1.0
+[Firmware and Bridge Releases](https://github.com/sonunishanthchoudhury-alt/PenguinMod-Arduino-Nano-USB/releases/tag/v1.0)
 ```
 
 Releases include:
